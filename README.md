@@ -4,12 +4,9 @@
 **💻 Python Developer | AI Specialist**  
 Passionate about leveraging technology to solve complex problems. I specialize in Python development and artificial intelligence, constantly expanding my expertise.
 
-Currently working on: **Deep Learning Models & Web Development** 
-Learning: **Advanced Neural Networks & Modern Web Frameworks**
 
- Iran  
- Currently working on: **Networking & Artificial Intelligence & Web Development **  
- Learning: **Advanced Python, Data Analysis, AI, NLP, Web3**  
+ 🔬 Currently working on: **Networking & Artificial Intelligence & Web Development**  
+ 📋 Learning: **Advanced Python, Data Analysis, AI, NLP, Web3**  
 
 ---
 
