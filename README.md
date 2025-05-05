@@ -1,7 +1,7 @@
 
 
 # <span style="color:#ff6b6b">P</span><span style="color:#48dbfb">a</span><span style="color:#1dd1a1">r</span><span style="color:#feca57">n</span><span style="color:#5f27cd">i</span><span style="color:#ff9ff3">a</span><span style="color:#00d2d3">n</span> Mahdian
-**💻 Python Developer | AI Specialist**  
+**Python Developer | AI Specialist**  
 Passionate about leveraging technology to solve complex problems. I specialize in Python development and artificial intelligence, constantly expanding my expertise.
 
 
@@ -38,9 +38,9 @@ Passionate about leveraging technology to solve complex problems. I specialize i
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 ### 1. [Apple Website Clone](https://github.com/Pmahdian/apple-website)
-🔳 Responsive Apple homepage replica  
+Responsive Apple homepage replica  
   **Tech**: HTML5, CSS3, JavaScript  
   **Features**:
 - Pixel-perfect responsive design
@@ -48,7 +48,7 @@ Passionate about leveraging technology to solve complex problems. I specialize i
 - Mobile-first approach
 
 ### 2. [iFDC System](https://github.com/Pmahdian/iFDC---FCDDWCSW)
-📊 Data collection and analysis system  
+Data collection and analysis system  
   **Tech**: Python, Tkinter, Pandas  
   **Features**:
 - GUI-based data entry
@@ -56,7 +56,7 @@ Passionate about leveraging technology to solve complex problems. I specialize i
 - Basic data visualization
 
 ### 3. [Fibonacci Sequence GUI](https://github.com/Pmahdian/Fibonacci-Tkinter-GUI)
-🔢 Mathematical visualization tool  
+Mathematical visualization tool  
   **Tech**: Python, Tkinter, Matplotlib  
   **Features**:
 - Interactive sequence generation
@@ -64,7 +64,7 @@ Passionate about leveraging technology to solve complex problems. I specialize i
 - Export capabilities
 
 ### 4. [Deep Learning Projects](https://github.com/Pmahdian/Deep-Learning)
-⚙️ Neural network implementations  
+Neural network implementations  
   **Tech**: TensorFlow, PyTorch, Keras  
   **Includes**:
 - Image classification models
@@ -85,4 +85,4 @@ Passionate about leveraging technology to solve complex problems. I specialize i
 
 ---
 
-> "Automate the boring stuff, solve real problems." 🚀
+> "The night sky speaks in Morse code." 
