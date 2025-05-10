@@ -75,9 +75,8 @@ Neural network implementations
 
 ## 📊 GitHub Stats  
 [![Parsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pmahdian&show_icons=true&theme=radical)](https://github.com/Pmahdian)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=radical)](https://github.com/Pmahdian)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nima-Mollaei&theme=dark&hide_border=false)<br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=radical)](https://github.com/Pmahdian)  
 
 
 ---
