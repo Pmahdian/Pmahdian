@@ -76,8 +76,15 @@ Neural network implementations
 ## 📊 GitHub Stats  
 [![Parsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pmahdian&show_icons=true&theme=radical)](https://github.com/Pmahdian)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=radical)](https://github.com/Pmahdian)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nima-Mollaei&theme=dark&hide_border=false)<br/>
+
+
 
 ---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nima-Mollaei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 📫 Let’s Connect!  
 📧 Email: **mahdianparnian@yahoo.com**  
