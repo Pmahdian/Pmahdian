@@ -6,7 +6,7 @@ Passionate about leveraging technology to solve complex problems. I specialize i
 
 
  🔬 Currently working on: **Networking & Artificial Intelligence & Web Development**  
- 📋 Learning: **Advanced Python, Data Analysis, AI, NLP, Web3**  
+ 📋 Learning: **Advanced Python, Data Analysis, AI, NLP, React**  
 
 ---
 
