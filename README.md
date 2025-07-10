@@ -74,15 +74,29 @@ Neural network implementations
 ---
 
 ## 📊 GitHub Stats  
-[![Parnian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pmahdian\&rank_icon=github)](https://github.com/Pmahdian)
+#
 
+
+  <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=algolia&langs_count=20" alt="Pmahdian"/>&nbsp;&nbsp;&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api?username=Pmahdian&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="Pmahdian"/>
+   <br><br>
+   <img src="https://github-profile-trophy.vercel.app/?username=Pmahdian&theme=algolia&column=5&margin-w=15&margin-h=15" alt="JawherKl"/>
+   <br><br>
+   <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Pmahdian&theme=algolia&card_width=800" alt="Pmahdian"/>
+   <br><br>
+  
+  
+   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Pmahdian&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="Pmahdian"/>
+  
+   
+  </p>
 
 
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nima-Mollaei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 ## 📫 Let’s Connect!  
