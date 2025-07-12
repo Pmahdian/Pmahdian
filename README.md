@@ -38,36 +38,48 @@ Passionate about leveraging technology to solve complex problems. I specialize i
 
 ---
 
-#  Featured Projects
-### 1. [Apple Website Clone](https://github.com/Pmahdian/apple-website)
+# Featured Projects
+### 1. [Hello Again JS](https://github.com/Pmahdian/Hello-Again-JS)
+Interactive JavaScript playground  
+**Tech**: JavaScript, HTML5, CSS3  
+**Features**:
+- Modern ES6+ syntax examples
+- Interactive code examples
+- Responsive design
+- Practical JS concepts demonstration
+
+### 2. [Apple Website Clone](https://github.com/Pmahdian/apple-website)
 Responsive Apple homepage replica  
-  **Tech**: HTML5, CSS3, JavaScript  
-  **Features**:
+**Tech**: HTML5, CSS3, JavaScript  
+**Features**:
 - Pixel-perfect responsive design
 - CSS animations and transitions
 - Mobile-first approach
 
-### 2. [iFDC System](https://github.com/Pmahdian/iFDC---FCDDWCSW)
+### 3. [iFDC System](https://github.com/Pmahdian/iFDC---FCDDWCSW)
 Data collection and analysis system  
-  **Tech**: Python, Tkinter, Pandas  
-  **Features**:
+**Tech**: Python, Tkinter, Pandas  
+**Features**:
 - GUI-based data entry
 - CSV export functionality
 - Basic data visualization
 
-### 3. [Fibonacci Sequence GUI](https://github.com/Pmahdian/Fibonacci-Tkinter-GUI)
+### 4. [Fibonacci Sequence GUI](https://github.com/Pmahdian/Fibonacci-Tkinter-GUI)
 Mathematical visualization tool  
-  **Tech**: Python, Tkinter, Matplotlib  
-  **Features**:
+**Tech**: Python, Tkinter, Matplotlib  
+**Features**:
 - Interactive sequence generation
 - Graphical output
 - Export capabilities
 
-### 4. [Deep Learning Projects](https://github.com/Pmahdian/Deep-Learning)
+### 5. [Deep Learning Projects](https://github.com/Pmahdian/Deep-Learning)
 Neural network implementations  
-  **Tech**: TensorFlow, PyTorch, Keras  
-  **Includes**:
+**Tech**: TensorFlow, PyTorch, Keras  
+**Includes**:
 - Image classification models
+- Neural network architectures
+- Model optimization techniques
+
 ---
  
 
