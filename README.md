@@ -117,4 +117,4 @@ Neural network implementations
 
 ---
 
-> "The night sky speaks in Morse code." 
+> "The night sky speaks in Morse code."
