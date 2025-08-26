@@ -93,7 +93,8 @@ Neural network implementations
 
    <img src="https://github-readme-stats.vercel.app/api?username=Pmahdian&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="Pmahdian"/>
    <br><br>
-   <img src="https://github-profile-trophy.vercel.app/?username=Pmahdian&theme=algolia&column=5&margin-w=15&margin-h=15" alt="Pmahdin"/>
+
+   <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Pmahdian&theme=algolia&card_width=800" alt="Pmahdian"/>
    <br><br>
 
    <br><br>
