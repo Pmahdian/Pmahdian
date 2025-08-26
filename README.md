@@ -95,7 +95,7 @@ Neural network implementations
    <br><br>
    <img src="https://github-profile-trophy.vercel.app/?username=Pmahdian&theme=algolia&column=5&margin-w=15&margin-h=15" alt="Pmahdin"/>
    <br><br>
-   <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Pmahdian&theme=algolia&card_width=800" alt="Pmahdian"/>
+
    <br><br>
   
   
