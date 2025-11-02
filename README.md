@@ -114,7 +114,7 @@
   
   **Consistency & Commitment**
   
-  <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Pmahdian&theme=algolia&card_width=1000" alt="Pmahdian" width="100%"/>
+  <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Pmahdian&theme=algolia&card_width=800" alt="Pmahdian" width="80%"/>
   
   <br><br>
 
