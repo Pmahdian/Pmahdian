@@ -108,13 +108,13 @@
   
   **Development Impact & Contributions**
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Pmahdian&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia&hide_title=false&include_all_commits=true&count_private=true" alt="Pmahdian" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pmahdian&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia&hide_title=false&include_all_commits=true&count_private=true" alt="Pmahdian" width="60%"/>
   
   <br><br>
   
   **Consistency & Commitment**
   
-  <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Pmahdian&theme=algolia&card_width=900" alt="Pmahdian" width="100%"/>
+  <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Pmahdian&theme=algolia&card_width=1000" alt="Pmahdian" width="100%"/>
   
   <br><br>
 
