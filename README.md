@@ -1,121 +1,155 @@
-
-
 # <span style="color:#ff6b6b">P</span><span style="color:#48dbfb">a</span><span style="color:#1dd1a1">r</span><span style="color:#feca57">n</span><span style="color:#5f27cd">i</span><span style="color:#ff9ff3">a</span><span style="color:#00d2d3">n</span> Mahdian
-**Python Developer | AI Specialist**  
-Passionate about leveraging technology to solve complex problems. I specialize in Python development and artificial intelligence, constantly expanding my expertise.
+**Python Developer | AI Engineer**  
+*Building intelligent solutions at the intersection of AI and software engineering*
 
-
- 🔬 Currently working on: **Networking & Artificial Intelligence & Web Development**  
- 📋 Learning: **Advanced Python, Data Analysis, AI, NLP, React**  
+🚀 **Specializing in**: Artificial Intelligence, Machine Learning, Backend Development & Data Engineering  
+📚 **Currently Mastering**: Advanced Neural Networks, MLOps, System Design & Cloud Architecture  
 
 ---
 
-##  Tech Stack  
-**Languages**:  
+## 🛠 Tech Stack & Expertise
+
+**Core Languages**:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Tools & Frameworks**:  
+**AI/ML Ecosystem**:  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+
+**Backend & APIs**:  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Data Science & Visualization**:  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Tools & DevOps**:  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# Featured Projects
-### 1. [Hello Again JS](https://github.com/Pmahdian/Hello-Again-JS)
-Interactive JavaScript playground  
-**Tech**: JavaScript, HTML5, CSS3  
-**Features**:
-- Modern ES6+ syntax examples
-- Interactive code examples
-- Responsive design
-- Practical JS concepts demonstration
+## 🚀 Featured Projects
 
-### 2. [Apple Website Clone](https://github.com/Pmahdian/apple-website)
-Responsive Apple homepage replica  
-**Tech**: HTML5, CSS3, JavaScript  
+### 🌐 [Node.js CMS](https://github.com/Pmahdian/Nodejs-cms)
+**Full-stack content management system**  
+**Tech**: Node.js, Express.js, MongoDB, EJS, Bootstrap  
 **Features**:
-- Pixel-perfect responsive design
-- CSS animations and transitions
-- Mobile-first approach
+- RESTful API architecture with Express.js
+- MongoDB database integration for dynamic content
+- EJS templating engine for server-side rendering
+- Responsive Bootstrap UI design
+- User authentication and session management
+- CRUD operations for content management
 
-### 3. [iFDC System](https://github.com/Pmahdian/iFDC---FCDDWCSW)
-Data collection and analysis system  
-**Tech**: Python, Tkinter, Pandas  
+### 🤖 [Deep Learning Projects](https://github.com/Pmahdian/Deep-Learning)
+**Comprehensive ML implementations and research**  
+**Tech**: Python, TensorFlow, Keras, OpenCV, NumPy  
+**Highlights**:
+- Convolutional Neural Networks for image classification
+- Custom layer implementations and model architectures
+- Computer vision applications with OpenCV integration
+- Comprehensive training pipelines and evaluation metrics
+
+### 🎨 [Apple Website Clone](https://github.com/Pmahdian/apple-website)
+**Modern responsive web design implementation**  
+**Tech**: HTML5, CSS3, JavaScript, Responsive Design  
 **Features**:
-- GUI-based data entry
-- CSV export functionality
-- Basic data visualization
+- Pixel-perfect Apple homepage replica
+- Advanced CSS animations and transitions
+- Mobile-first responsive architecture
+- Cross-browser compatibility
 
-### 4. [Fibonacci Sequence GUI](https://github.com/Pmahdian/Fibonacci-Tkinter-GUI)
-Mathematical visualization tool  
+### 📊 [iFDC System](https://github.com/Pmahdian/iFDC---FCDDWCSW)
+**Data collection and analysis desktop application**  
+**Tech**: Python, Tkinter, Pandas, Matplotlib  
+**Capabilities**:
+- GUI-based data entry and management system
+- CSV export and data persistence
+- Basic data visualization capabilities
+- User-friendly desktop interface
+
+### 🔢 [Fibonacci Sequence GUI](https://github.com/Pmahdian/Fibonacci-Tkinter-GUI)
+**Mathematical visualization application**  
 **Tech**: Python, Tkinter, Matplotlib  
+**Innovations**:
+- Interactive Fibonacci sequence generator
+- Graphical visualization of mathematical patterns
+- Export functionality for generated data
+- Educational tool for mathematical concepts
+
+### 💻 [Hello Again JS](https://github.com/Pmahdian/Hello-Again-JS)
+**JavaScript learning and experimentation playground**  
+**Tech**: JavaScript, ES6+, HTML5, CSS3  
 **Features**:
-- Interactive sequence generation
-- Graphical output
-- Export capabilities
-
-### 5. [Deep Learning Projects](https://github.com/Pmahdian/Deep-Learning)
-Neural network implementations  
-**Tech**: TensorFlow, PyTorch, Keras  
-**Includes**:
-- Image classification models
-- Neural network architectures
-- Model optimization techniques
-
----
- 
+- Modern JavaScript syntax examples
+- Interactive coding demonstrations
+- DOM manipulation exercises
+- Fundamental programming concepts
 
 ---
 
-## 📊 GitHub Stats  
-#
+## 📈 GitHub Analytics
 
-
-  <p align="center">
-
-   <img src="https://github-readme-stats.vercel.app/api?username=Pmahdian&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="Pmahdian"/>
-   <br><br>
-
-   <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Pmahdian&theme=algolia&card_width=800" alt="Pmahdian"/>
-   <br><br>
-
-   <br><br>
+<p align="center">
   
+  **Development Impact & Contributions**
   
-   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Pmahdian&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="Pmahdian"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pmahdian&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia&hide_title=false&include_all_commits=true&count_private=true" alt="Pmahdian" width="60%"/>
   
-   
-  </p>
+  <br><br>
+  
+  **Consistency & Commitment**
+  
+  <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Pmahdian&theme=algolia&card_width=800" alt="Pmahdian" width="60%"/>
+  
+  <br><br>
+  
+  **Technical Expertise Distribution**
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=algolia&langs_count=8&hide_border=true" alt="Pmahdian" width="60%"/>
+  
+  <br><br>
+  
+  **Collaboration Network**
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Pmahdian&bg_color=0D1117&title_color=00AEFF&color=00AEFF&line=2DDC97&point=2DDC97&hide_border=true&custom_title=Engineering%20Contribution%20Graph" alt="Pmahdian" width="80%"/>
+  
+</p>
 
+---
 
+## 🎯 Technical Focus Areas
+
+- **Backend Development**: Node.js, Express.js, RESTful APIs, MongoDB
+- **Machine Learning**: Deep learning, computer vision, neural networks
+- **Desktop Applications**: Python GUI development with Tkinter
+- **Web Technologies**: Full-stack development, responsive design
+- **Data Analysis**: Pandas, NumPy, data visualization
+- **Content Management Systems**: Custom CMS development
+
+---
+
+## 📫 Strategic Connections
+
+📧 **Technical Discussions**: **mahdianparnian@yahoo.com**  
+💼 **GitHub Portfolio**: [github.com/Pmahdian](https://github.com/Pmahdian)  
 
 ---
 
 
-
-
-## 📫 Let’s Connect!  
-📧 Email: **mahdianparnian@yahoo.com**  
-
-
----
 
 > "The night sky speaks in Morse code."
