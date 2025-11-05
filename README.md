@@ -86,10 +86,7 @@
 
 <br>
 
-### 🔥 Consistency & Commitment
-<img src="https://streak-stats.demolab.com/?user=Pmahdian&theme=algolia&hide_border=true" alt="GitHub Streak" width="80%"/>
 
-<br>
 
 ### 💻 Technical Expertise
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=algolia&hide_border=true&langs_count=8&hide=html,css,scss,shell" alt="Top Languages" width="60%"/>
