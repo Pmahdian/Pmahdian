@@ -87,7 +87,7 @@
 <br>
 
 ### 💻 Technical Expertise
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss,shell&bg_color=45,ff6b6b,48dbfb,1dd1a1,feca57,5f27cd,ff9ff3,00d2d3&title_color=fff&text_color=fff" alt="Top Languages" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css,scss,shell&bg_color=ffffff&title_color=333&text_color=555" alt="Top Languages" width="60%"/>
 
 </div>
 
@@ -146,7 +146,3 @@
 </div>
 
 ---
-  
-✅ **حفظ تمام بخش‌های دیگر** بدون تغییر
-
-این تم جدید خیلی جذاب‌تر و حرفه‌ای‌تر هست! 🎨
