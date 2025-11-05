@@ -76,23 +76,29 @@
 
 <div align="center">
 
-### 🎯 Development Impact & Contributions
-<img src="https://github-readme-stats.vercel.app/api?username=Pmahdian&show_icons=true&locale=en&theme=algolia&hide_title=false&include_all_commits=true&count_private=true" alt="Pmahdian" width="60%"/>
+### 📊 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pmahdian&theme=github&bg_color=0D1117&hide_border=true&area=true&custom_title=Parnian's%20Weekly%20Contributions" alt="Contribution Graph" width="90%"/>
 
 <br>
 
-### 🔥 Consistency & Commitment
-<img src="https://camo.githubusercontent.com/706bec6c6fa8fc3cfe07f4c87962c39fb87da081b9d7ba950215e339f0bf5659/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d6769742d6d61696e2d6461766964732d70726f6a656374732d61643737616463632e76657263656c2e6170702f3f757365723d506d61686469616e267468656d653d616c676f6c696126636172645f77696474683d383030" alt="Pmahdian" width="80%"/>
-
-<br>
-
-### 🤝 Collaboration Network
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pmahdian&bg_color=0D1117&title_color=00AEFF&color=00AEFF&line=2DDC97&point=2DDC97&hide_border=true&custom_title=Engineering%20Contribution%20Graph" alt="Pmahdian" width="80%"/>
-
-<br>
+### 🎯 Development Metrics
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Pmahdian&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+      <br>
+      <strong>Development Impact</strong>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=Pmahdian&theme=default&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <br>
+      <strong>Consistency & Commitment</strong>
+    </td>
+  </tr>
+</table>
 
 ### 💻 Technical Expertise
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css,scss,shell&exclude_repo=apple-website,Hello-Again-JS" alt="Top Languages" width="60%"/>
 
 </div>
 
@@ -102,7 +108,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pmahdian&theme=algolia&no-frame=true&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pmahdian&theme=flat&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
 
 </div>
 
@@ -146,7 +152,19 @@
 
 <br>
 
-*"The night sky speaks in Morse code."*
+*"The night sky speaks in Morse code."*  *
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **Currently Working On**
+- 🤖 Advanced Neural Network Architectures
+- 🌐 Scalable Backend Systems
+- 🎯 MLOps Pipelines
+- 💡 Innovative AI Solutions
 
 </div>
 
