@@ -81,24 +81,18 @@
 
 <br>
 
-### 🎯 Development Metrics
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Pmahdian&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
-      <br>
-      <strong>Development Impact</strong>
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=Pmahdian&theme=default&hide_border=true" alt="GitHub Streak" width="100%"/>
-      <br>
-      <strong>Consistency & Commitment</strong>
-    </td>
-  </tr>
-</table>
+### 🎯 Development Impact
+<img src="https://github-readme-stats.vercel.app/api?username=Pmahdian&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="60%"/>
+
+<br>
+
+### 🔥 Consistency & Commitment
+<img src="https://streak-stats.demolab.com/?user=Pmahdian&theme=algolia&hide_border=true" alt="GitHub Streak" width="80%"/>
+
+<br>
 
 ### 💻 Technical Expertise
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css,scss,shell&exclude_repo=apple-website,Hello-Again-JS" alt="Top Languages" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=algolia&hide_border=true&langs_count=8&hide=html,css,scss,shell" alt="Top Languages" width="60%"/>
 
 </div>
 
@@ -108,7 +102,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pmahdian&theme=flat&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pmahdian&theme=algolia&no-frame=true&row=2&column=4)
 
 </div>
 
@@ -152,19 +146,8 @@
 
 <br>
 
-*"The night sky speaks in Morse code."*  *
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ **Currently Working On**
-- 🤖 Advanced Neural Network Architectures
-- 🌐 Scalable Backend Systems
-- 🎯 MLOps Pipelines
-- 💡 Innovative AI Solutions
+*"The night sky speaks in Morse code."*  
+**
 
 </div>
 
