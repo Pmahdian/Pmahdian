@@ -86,6 +86,10 @@
 
 <br>
 
+### 🔥 Consistency & Commitment
+<img src="https://camo.githubusercontent.com/706bec6c6fa8fc3cfe07f4c87962c39fb87da081b9d7ba950215e339f0bf5659/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d6769742d6d61696e2d6461766964732d70726f6a656374732d61643737616463632e76657263656c2e6170702f3f757365723d506d61686469616e267468656d653d616c676f6c696126636172645f77696474683d383030" alt="GitHub Streak" width="80%"/>
+
+<br>
 
 ### 💻 Technical Expertise
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css,scss,shell&bg_color=ffffff&title_color=333&text_color=555" alt="Top Languages" width="60%"/>
