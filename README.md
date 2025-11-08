@@ -91,9 +91,6 @@
 
 <br>
 
-### 💻 Technical Expertise
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmahdian&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css,scss,shell&bg_color=ffffff&title_color=333&text_color=555" alt="Top Languages" width="60%"/>
-
 </div>
 
 ---
