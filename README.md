@@ -1,5 +1,5 @@
 # <span style="color:#ff6b6b">P</span><span style="color:#48dbfb">a</span><span style="color:#1dd1a1">r</span><span style="color:#feca57">n</span><span style="color:#5f27cd">i</span><span style="color:#ff9ff3">a</span><span style="color:#00d2d3">n</span> Mahdian
-**Python Developer **  
+**Python Developer**  
 *Building intelligent solutions at the intersection of AI and software engineering*
 
 🚀 **Specializing in**: Artificial Intelligence, Machine Learning, Backend Development & Data Engineering  
